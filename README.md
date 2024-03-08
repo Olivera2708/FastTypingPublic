@@ -1,6 +1,8 @@
 # Fast Typing
 This application presents a comprehensive suite of features crafted to enhance your typing experience and elevate your proficiency. Whether you're a novice seeking improvement or a seasoned typist aiming for perfection, our application is tailored to meet your needs.
-<img src="images/icon.png" width="120"/>
+<p align="center">
+  <img src="images/icon.png" width="140"/>
+</p>
 
 Please note that the code for this application is private.
 
