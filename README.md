@@ -1,11 +1,16 @@
 # Fast Typing
 This application presents a comprehensive suite of features crafted to enhance your typing experience and elevate your proficiency. Whether you're a novice seeking improvement or a seasoned typist aiming for perfection, our application is tailored to meet your needs.
 <div align="center">
-  <img src="images/icon.png" width="140"/>
+  <div>
+    <img src="images/icon.png" width="140"/>
+  </div>
+  <div>
+    <a href="https://play.google.com/store/apps/details?id=com.cubeorcoding.fasttyping">
+      <img src="images/playstore.png" width="200"/>
+    </a>
+  </div>
 </div>
-<div align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.cubeorcoding.fasttyping"><img src="images/playstore.png" width="200"/></a>
-</div>
+
 
 *Please note that the code for this application is private.*
 
