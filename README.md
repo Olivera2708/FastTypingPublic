@@ -14,8 +14,8 @@ Please note that the code for this application is private.
 - Seamlessly integrate with your device's theme for a personalized experience.
 
 <p align="center">
-  <img src="images/image1.jpg" width="200"/>
-  <img src="images/image2.jpg" width="200"/> 
+  <img src="images/image1.jpg" width="200" style="margin-right: 20px"/>
+  <img src="images/image2.jpg" width="200" style="margin-right: 20px"/> 
   <img src="images/image3.jpg" width="200"/>
 </p>
 
