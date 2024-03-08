@@ -17,9 +17,9 @@ This application presents a comprehensive suite of features crafted to enhance y
 - Seamlessly integrate with your device's theme for a personalized experience.
 
 <p align="center">
-  <img src="images/image1.jpg" width="200" style="margin-bottom: 100px;"/>
-  <img src="images/image2.jpg" width="200" style="margin-bottom: 100px;"/>
-  <img src="images/image3.jpg" width="200" style="margin-bottom: 100px;"/>
+  <img src="images/image1.jpg" width="240"/>
+  <img src="images/image2.jpg" width="240"/>
+  <img src="images/image3.jpg" width="240"/>
 </p>
 
 ### In-depth Statistics
@@ -33,9 +33,7 @@ This application presents a comprehensive suite of features crafted to enhance y
   - Your Personal Average for Your Chosen Category
   - Comparative Analysis with Other Users
 
-<p align="center">
-  <img src="results.jpg"/>
-</p>
+<img src="images/results.jpg" width="240"/>
 
 ## Multilingual Support
 
@@ -77,6 +75,6 @@ Explore My Profile to access an array of insightful statistics:
 - Total Characters and Words Typed
 
 <p align="center">
-  <img src="images/profile1.jpg"/>
-  <img src="images/profile2.jpg"/>
+  <img src="images/profile1.jpg"  width="240"/>
+  <img src="images/profile2.jpg"  width="240"/>
 </p>
