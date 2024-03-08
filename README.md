@@ -23,6 +23,12 @@ This application presents a comprehensive suite of features crafted to enhance y
 - Customize your typing environment by selecting your preferred main color in the settings.
 - Seamlessly integrate with your device's theme for a personalized experience.
 
+<p align="center">
+  <img src="images/image1.jpg" width="240"/>
+  <img src="images/image2.jpg" width="240"/>
+  <img src="images/image3.jpg" width="240"/>
+</p>
+
 ### In-depth Statistics
 - Gain valuable insights into your typing progress through detailed statistics, including:
   - CWPM (Correct Words Per Minute)
@@ -35,9 +41,6 @@ This application presents a comprehensive suite of features crafted to enhance y
   - Comparative Analysis with Other Users
 
 <p align="center">
-  <img src="images/image1.jpg" width="240"/>
-  <img src="images/image2.jpg" width="240"/>
-  <img src="images/image3.jpg" width="240"/>
   <img src="images/results.jpg" width="240"/>
 </p>
 
