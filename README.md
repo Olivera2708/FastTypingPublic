@@ -10,8 +10,6 @@ This application presents a comprehensive suite of features crafted to enhance y
     </a>
   </div>
 </div>
-
-
 *Please note that the code for this application is private.*
 
 ## Features
