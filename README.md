@@ -1,5 +1,6 @@
 # Fast Typing
 This application presents a comprehensive suite of features crafted to enhance your typing experience and elevate your proficiency. Whether you're a novice seeking improvement or a seasoned typist aiming for perfection, our application is tailored to meet your needs.
+
 <div align="center">
   <div>
     <img src="images/icon.png" width="140"/>
