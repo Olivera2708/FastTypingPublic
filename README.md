@@ -1,6 +1,6 @@
 # Fast Typing
 This application presents a comprehensive suite of features crafted to enhance your typing experience and elevate your proficiency. Whether you're a novice seeking improvement or a seasoned typist aiming for perfection, our application is tailored to meet your needs.
-![Logo](logo.png)
+![Logo](images/icon.png)
 Please note that the code for this application is private.
 
 ## Features
@@ -14,9 +14,9 @@ Please note that the code for this application is private.
 - Seamlessly integrate with your device's theme for a personalized experience.
 
 <p align="center">
-  <img src="image1.jpg"/>
-  <img src="image2.jpg"/> 
-  <img src="image3.jpg"/>
+  <img src="images/image1.jpg"/>
+  <img src="images/image2.jpg"/> 
+  <img src="images/image3.jpg"/>
 </p>
 
 ### In-depth Statistics
@@ -74,6 +74,6 @@ Explore My Profile to access an array of insightful statistics:
 - Total Characters and Words Typed
 
 <p align="center">
-  <img src="profile1.jpg"/>
-  <img src="profile2.jpg"/>
+  <img src="images/profile1.jpg"/>
+  <img src="images/profile2.jpg"/>
 </p>
