@@ -3,7 +3,7 @@ This application presents a comprehensive suite of features crafted to enhance y
 
 <p align="center">
   <img src="images/icon.png" width="140"/>
-  <a href="https://play.google.com/store/apps/details?id=com.cubeorcoding.fasttyping"><img src="images/playstore.png" width="140"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.cubeorcoding.fasttyping"><img src="images/playstore.png" width="200"/></a>
 </p>
 
 *Please note that the code for this application is private.*
