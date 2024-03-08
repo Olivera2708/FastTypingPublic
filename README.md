@@ -7,7 +7,7 @@ This application presents a comprehensive suite of features crafted to enhance y
   </div>
   <div>
     <a href="https://play.google.com/store/apps/details?id=com.cubeorcoding.fasttyping">
-      <img src="images/playstore.png" width="200"/>
+      <img src="images/getonplaystore.png" width="200"/>
     </a>
   </div>
 </div>
