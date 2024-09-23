@@ -37,16 +37,13 @@ This application presents a comprehensive suite of features crafted to enhance y
 - Gain valuable insights into your typing progress through detailed statistics, including:
   - CWPM (Correct Words Per Minute)
   - Correct Characters Typed
-  - CPS (Correct Characters Per Second, Typing Speed)
   - Incorrect Words
   - Typing Accuracy
-  - World Average for Your Selected Category
-  - Your Personal Average for Your Chosen Category
   - Comparative Analysis with Other Users
 
 ## Multilingual Support
 
-Explore 12 categories and 11 languages, including:
+Explore 11 languages, including:
 1. English
 2. Croatian (with and without special characters)
 3. Serbian (Cyrillic, Latin with and without special characters)
@@ -58,7 +55,6 @@ Explore 12 categories and 11 languages, including:
 9. Arabic
 10. Hindi
 11. Portuguese
-12. Numeric Typing (Choose between two keyboard layouts)
 
 <p align="center">
   <img src="images/image3.png" width="240"/>
@@ -73,11 +69,10 @@ Challenge participants worldwide and join our vibrant typing community! Submit y
 
 ### Result Storage
 - Access all your performance data in one convenient location.
-- Explore the score section to review your progress.
+- Explore the charts section to review your progress.
 
 ## Personal Statistics
-Explore My Profile to access an array of insightful statistics:
-- Title Achievement
+Explore your profile to access an array of insightful statistics:
 - Trophy Count
 - Games Played, Saved, and Submitted
 - Best and Worst Performances
