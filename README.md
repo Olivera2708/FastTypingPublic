@@ -85,4 +85,5 @@ Explore My Profile to access an array of insightful statistics:
 
 <p align="center">
   <img src="images/image7.png" width="240"/>
+  <img src="images/image8.png" width="240"/>
 </p>
