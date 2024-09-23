@@ -13,16 +13,16 @@ This application presents a comprehensive suite of features crafted to enhance y
 </div>
 <em>Please note that the code for this application is private.</em>
 
-<p align="center">
-  <img src="images/image1.png" width="240"/>
-  <img src="images/image2.png" width="240"/>
-</p>
-
 ## Features
 
 ### Refined Typing Practice
 - Engage in dynamic exercises and captivating challenges to enhance your typing speed and accuracy.
 - Receive real-time feedback to identify and correct errors as you type.
+
+<p align="center">
+  <img src="images/image1.png" width="240"/>
+  <img src="images/image2.png" width="240"/>
+</p>
 
 ### Personalization
 - Customize your typing environment by selecting your preferred main color in the settings.
