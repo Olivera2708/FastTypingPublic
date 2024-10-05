@@ -13,7 +13,7 @@
   </div>
 </div>
 
-*Please note that the code for this application is private.*
+> **Please note**: The code for this application is private.
 
 ## ✨ Key Features
 - **Interactive typing practice** with real-time feedback.
