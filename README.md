@@ -1,5 +1,6 @@
 # Fast Typing
-This application presents a comprehensive suite of features crafted to enhance your typing experience and elevate your proficiency. Whether you're a novice seeking improvement or a seasoned typist aiming for perfection, our application is tailored to meet your needs.
+
+**Fast Typing** is your ultimate tool for enhancing typing speed and accuracy. Whether you're just starting or striving for typing mastery, this application offers a comprehensive range of features to meet your needs.
 
 <div align="center">
   <div>
@@ -11,13 +12,15 @@ This application presents a comprehensive suite of features crafted to enhance y
     </a>
   </div>
 </div>
-<em>Please note that the code for this application is private.</em>
 
-## Features
+*Please note that the code for this application is private.*
 
-### Refined Typing Practice
-- Engage in dynamic exercises and captivating challenges to enhance your typing speed and accuracy.
-- Receive real-time feedback to identify and correct errors as you type.
+## ✨ Key Features
+- **Interactive typing practice** with real-time feedback.
+- **Customizable themes**: Personalize colors and toggle sound effects.
+- **Detailed statistics**: Track CWPM, accuracy, and more.
+- **Multilingual support** with 11 languages.
+- **Global competition**: Submit scores and climb leaderboards.
 
 <p align="center">
   <img src="images/image1.png" width="240"/>
@@ -25,8 +28,8 @@ This application presents a comprehensive suite of features crafted to enhance y
 </p>
 
 ### Personalization
-- Customize your typing environment by selecting your preferred main color in the settings.
-- Seamlessly integrate with your device's theme for a personalized experience.
+- **Customize** your typing environment by selecting your favorite main color in the settings.
+- **Seamless integration** with your device’s theme ensures a personalized experience that fits your style.
 
 <p align="center">
   <img src="images/image5.png" width="240"/>
@@ -34,16 +37,16 @@ This application presents a comprehensive suite of features crafted to enhance y
 </p>
 
 ### In-depth Statistics
-- Gain valuable insights into your typing progress through detailed statistics, including:
-  - CWPM (Correct Words Per Minute)
-  - Correct Characters Typed
-  - Incorrect Words
-  - Typing Accuracy
-  - Comparative Analysis with Other Users
+- Track your typing progress with detailed insights, including:
+  - **CWPM (Correct Words Per Minute)**
+  - **Correct Characters Typed**
+  - **Incorrect Words**
+  - **Typing Accuracy**
+  - **Comparative Analysis with Other Users**
 
-## Multilingual Support
+## 🌍 Multilingual Support
 
-Explore 11 languages, including:
+Type in 11 languages, including:
 1. English
 2. Croatian (with and without special characters)
 3. Serbian (Cyrillic, Latin with and without special characters)
@@ -61,22 +64,22 @@ Explore 11 languages, including:
   <img src="images/image4.png" width="240"/>
 </p>
 
-## Global Competition
+## 🌐 Global Competition
 
-Challenge participants worldwide and join our vibrant typing community! Submit your results to discover your global ranking and compete with the top 10 users in each category.
+Challenge typists worldwide and join a vibrant community! Submit your results to see where you rank globally, and compete with the top 10 users in each category.
 
-## Track Your Progress and Achievements
+## 📊 Track Your Progress and Achievements
 
 ### Result Storage
-- Access all your performance data in one convenient location.
-- Explore the charts section to review your progress.
+- Store all your performance data in one convenient location.
+- Review your progress using detailed charts.
 
-## Personal Statistics
-Explore your profile to access an array of insightful statistics:
-- Trophy Count
-- Games Played, Saved, and Submitted
-- Best and Worst Performances
-- Total Characters and Words Typed
+## 👤 Personal Statistics
+Visit your profile to access a variety of detailed statistics:
+- **Trophy Count**
+- **Games Played, Saved, and Submitted**
+- **Best and Worst Performances**
+- **Total Characters and Words Typed**
 
 <p align="center">
   <img src="images/image7.png" width="240"/>
