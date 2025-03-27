@@ -4,7 +4,7 @@
 
 <div align="center">
   <div>
-    <img src="images/icon.png" width="140"/>
+    <img src="images/app_icon.png" width="140"/>
   </div>
   <div>
     <a href="https://play.google.com/store/apps/details?id=com.cubeorcoding.fasttyping">
